@@ -1,11 +1,11 @@
 # Site settings
 author: Samantha Meason
-title: 
+title: # Why Software Engineering?
 header-img: img/home-bg.png
 email: sbmeason@gmail.com
 copyright_name: Samantha Meason
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I Chose to Study Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sbmeason
